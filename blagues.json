@@ -1,0 +1,99 @@
+{
+    "blagues": [
+      {
+        "blague": "Quelles sont les différences entre TCP et UDP ?",
+        "reponse":"TCP = plus sécurisé / plus lent ; UDP = moins sécurisé / plus rapide"
+      },
+      {
+        "blague": "quelle ip pour la classe A",
+        "reponse":"10.0.0.0 à 10.255.255.255"
+      },
+      {
+        "blague": "quelle ip pour la classe B",
+        "reponse":"172.16.0.0 à 172.31.255.255"
+      },
+      {
+        "blague": "quelle est la couche 1 du modèle OSI",
+        "reponse":"la couche Physique"
+      },
+      {
+        "blague": "quelle est la couche 2 du modèle OSI",
+        "reponse":"la couche liaison de données"
+      },
+      {
+        "blague": "quelle est la couche 3 du modèle OSI",
+        "reponse":"la couche réseau"
+      },
+      {
+        "blague": "quelle est la couche 4 du modèle OSI",
+        "reponse":"la couche transport"
+      },
+      {
+        "blague": "quelle est la couche 5 du modèle OSI",
+        "reponse":"la couche session"
+      },
+      {
+        "blague": "quelle est la couche 6 du modèle OSI",
+        "reponse":"la couche présentation"
+      },
+      {
+        "blague": "quelle est la couche 7 du modèle OSI",
+        "reponse":"la couche application"
+      },
+      {
+        "blague": "A quoi sert un pare-feu ?",
+        "reponse":"Le pare-feu protège la totalité du trafic réseau et à la capacité d'identifier et de bloquer le trafic indésirable"
+      },
+      {
+        "blague": "Quel commande permet d'afficher la table arp",
+        "reponse":"arp -a"
+      },
+      {
+        "blague": "A quoi sert le protocole ARP et au niveau de quel couche du modèle OSI celui-ci opère-t-il ?",
+        "reponse":"le protocole ARP fait l'association entre les adresses MAC aux adresses IP, il intervient sur la couche 2 (liaison de données)"
+      },
+      {
+        "blague": "Qu'est ce que la segmentation réseaux et pourquoi cela apporte un avantage au niveau de la sécurité des ressources informatiques ?",
+        "reponse":"Elle permet de séparer les réseaux entre-eux, cela permet que lorsque un virus arrive dans un réseaux, il n'atteint pas les autres réseaux"
+      },
+      {
+        "blague": "A quoi sert le three way handshake lors d'une communication en TCP",
+        "reponse":"Il permet d'établir une communication fiable entre deux machines."
+      },
+      {
+        "blague": "Quel commande permettant de lister des droits d'un fichier",
+        "reponse":"ls -l"
+      },
+      {
+        "blague": "A quoi sert la table CAM",
+        "reponse":"La table cam sert a faire l’association entre les ports et les adresses MAC"
+      },
+      {
+        "blague": "Combien de machines réseau peut contenir le réseau suivant : 192.168.10.0/21",
+        "reponse":"je sais pas calcul"
+      },
+      {
+        "blague": "Qu'est ce que la sécurité par l'obscurité ?",
+        "reponse":"Ne pas révéler comment les systèmes sont sécurisés, ni comment et quand ils sont attaqués"
+      },
+      {
+        "blague": "Citez des fichiers racines de linux",
+        "reponse":"/bin /tmp /boot /var /etc /home ..."
+      },
+      {
+        "blague": "Citez 3 hyperviseurs",
+        "reponse":"hyperv créer par Microsoft, virtualbox créer par Oracle, vmware créer par EMC corporation"
+      },
+      {
+        "blague": "Qu'est ce qu'une distribution Linux ? et qui a créer Linux ?",
+        "reponse":"Une distribution linux est un ensemble cohérent de logiciels, assemblés autour du noyau Linux et formant un OS."
+      },
+      {
+        "blague": "Citez 3 distribution linux",
+        "reponse":"Fedora, Ubuntu et Debian"
+      }
+      
+      
+    ]
+}
+  
